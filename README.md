@@ -16,7 +16,7 @@ Inserting the sample records of data in the tables
 3. Retrive Student Information
 **Code Link:** [Retrive Student Information](https://github.com/Bhoomi05/Project-Bhumika/blob/main/Task1_Academic_Management_System/retieve_student_info.sql)
 a. Query to retrieve student details
-![alt text](image-1.png)
+![alt text](Student_Info_Output.png)
 
 
 
