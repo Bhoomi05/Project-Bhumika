@@ -28,6 +28,8 @@ c. Query to retrieve course details
 
 ![alt text](Course_Info_Output.png)
 
+d. Query to retrieve course details for a specific course
 
+![alt text](Specific_Course_Output.png)
 
 
