@@ -46,5 +46,5 @@ a. Query to retrieve number of students enrolled in each course
 
 b. Query to retrieve students enrolled in specific course
 
-![alt text](Enrolled_Students_Specific_Course.Output.png)
+![alt text](Enrolled_Students_Specific_Course_Output.png)
 
