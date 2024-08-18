@@ -32,4 +32,8 @@ d. Query to retrieve course details for a specific course
 
 ![alt text](Specific_Course_Output.png)
 
+e. Query to retrieve course details for multiple course
+
+![alt text](Multiple_Courses_Output.png)
+
 
