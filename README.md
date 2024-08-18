@@ -42,4 +42,9 @@ e. Query to retrieve course details for multiple course
 
 a. Query to retrieve number of students enrolled in each course
 
-![alt text](Enrolled_Students_Each_Course.png)
+![alt text](Enrolled_Students_Each_Course_Output.png)
+
+b. Query to retrieve students enrolled in specific course
+
+![alt text](Enrolled_Students_Specific_Course.Output.png)
+
