@@ -24,6 +24,9 @@ b. Query to retrieve a list of courses by "enrolled" filter
 
 ![alt text](Enrolled_filter_Output.png)
 
+c. Query to retrieve course details
+
+![alt text](Course_Info_Output.png)
 
 
 
