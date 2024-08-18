@@ -1,0 +1,75 @@
+# a:retrieving number of students enrolled in each course
+
+SELECT 
+    COUNT(s.STU_NAME) AS Number_of_Students, C.COURSE_NAME, e.ENROLL_STATUS
+FROM
+    EnrollmentInfo e
+        JOIN
+    StudentInfo s ON s.STU_ID = e.STU_ID
+        JOIN
+    CourseInfo c ON c.COURSE_ID = e.COURSE_ID
+WHERE
+    ENROLL_STATUS = 'Enrolled'
+GROUP BY 
+	C.COURSE_NAME;
+    
+# b:retrieving list of students enrolled in specific course
+
+SELECT 
+    s.STU_ID , s.STU_NAME, C.COURSE_NAME, e.ENROLL_STATUS
+FROM
+    EnrollmentInfo e
+        JOIN
+    StudentInfo s ON s.STU_ID = e.STU_ID
+        JOIN
+    CourseInfo c ON c.COURSE_ID = e.COURSE_ID
+WHERE
+    ENROLL_STATUS = 'Enrolled';
+
+# c:retrieving count of enrolled students for each instructor
+
+SELECT 
+    COUNT(s.STU_NAME) AS NUMBER_OF_STUDENTS , C.COURSE_INSTRUCTORNAME, e.ENROLL_STATUS
+FROM
+    EnrollmentInfo e
+        JOIN
+    StudentInfo s ON s.STU_ID = e.STU_ID
+        JOIN
+    CourseInfo c ON c.COURSE_ID = e.COURSE_ID
+WHERE
+    ENROLL_STATUS = 'Enrolled'
+GROUP BY 
+	C.COURSE_INSTRUCTORNAME , e.ENROLL_STATUS;
+
+# d:retrieving list of students enrolled in multiple courses
+
+SELECT 
+    s.STU_NAME, C.COURSE_NAME, e.ENROLL_STATUS
+FROM
+    EnrollmentInfo e
+        JOIN
+    StudentInfo s ON s.STU_ID = e.STU_ID
+        JOIN
+    CourseInfo c ON c.COURSE_ID = e.COURSE_ID
+WHERE
+    e.ENROLL_STATUS = 'Enrolled' 
+GROUP BY COURSE_NAME , e.ENROLL_STATUS , s.STU_NAME
+HAVING 
+	COUNT(c.COURSE_NAME) > 1;
+    
+#e: retrieve list of courses having highest number of enrolled students arranged from highest to lowest
+
+SELECT 
+   COUNT(S.STU_ID) AS ENROLLED_STUDENTS, c.COURSE_ID, C.COURSE_NAME
+FROM
+    EnrollmentInfo e
+        JOIN
+    StudentInfo s ON s.STU_ID = e.STU_ID
+        JOIN
+    CourseInfo c ON c.COURSE_ID = e.COURSE_ID
+WHERE
+    e.ENROLL_STATUS = 'Enrolled' 
+GROUP BY 
+	c.COURSE_ID, C.COURSE_NAME
+ORDER BY 
+	ENROLLED_STUDENTS DESC;
