@@ -38,11 +38,8 @@ e. Query to retrieve course details for multiple course
 
 4. Reporting and Analytics using Join Queries
 
-Inserting the sample records of data in the tables
-**Code Link:** [Data Creation](https://github.com/Bhoomi05/Project-Bhumika/blob/main/Task1_Academic_Management_System/Reporting_and_Analytics_Using_Join_Queries)
+**Code Link:** [Join Queries](https://github.com/Bhoomi05/Project-Bhumika/blob/main/Task1_Academic_Management_System/Reporting_and_Analytics_Using_Join_Queries)
 
 a. Query to retrieve number of students enrolled in each course
 
-![alt text](Enrolled_Students_Specific_Course.png)
-
-b. Query to retrieve number of students enrolled in specific course
+![alt text](Enrolled_Students_Each_Course.png)
