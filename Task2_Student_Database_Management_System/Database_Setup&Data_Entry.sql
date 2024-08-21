@@ -1,7 +1,6 @@
 #1: Database Setup
-#Create ENUM type for grade
-CREATE TYPE grade_enum AS ENUM ('A', 'B', 'C', 'D');
-#Create student_table with the grade_enum type
+CREATE DATABASE Student_Database;
+USE Student_Database;
 CREATE TABLE student_table (
   student_ID INTEGER PRIMARY KEY,
   stu_name TEXT,
@@ -13,7 +12,7 @@ CREATE TABLE student_table (
   Gender TEXT,
   Major TEXT,
   GPA NUMERIC,
-  grade grade_enum
+  grade ENUM('A', 'B', 'C')
 );
 
 #insertion of 10 sample records into the student_table
