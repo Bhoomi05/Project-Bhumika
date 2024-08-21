@@ -73,6 +73,8 @@ Creating database Student_Database and table student_table,
 Inserting 10 sample records of data in the student_table
 **Code Link:** [student_table](https://github.com/Bhoomi05/Project-Bhumika/blob/main/Task2_Student_Database_Management_System/Database_Setup%26Data_Entry.sql)
 
+NOTE: Subtask 1 and 2 are merged
+
 ![alt text](student_table.png)
 
 3. Student Information Retrieval:
@@ -81,3 +83,11 @@ Query to retrieve all students information from the student_table and sorting th
 **Code Link:** [Sorting_Grade_Desc](https://github.com/Bhoomi05/Project-Bhumika/blob/main/Task2_Student_Database_Management_System/Sorting_Students_Grade_Desc.sql)
 
 ![alt text](Grade_Desc.png)
+
+4. Query for Male Students:
+Query to retrieve information about all male students from the
+student_table
+
+**Code Link:** [Male Students](https://github.com/Bhoomi05/Project-Bhumika/blob/main/Task2_Student_Database_Management_System/Sorting_Students_Grade_Desc.sql)
+
+![alt text](Male_Students.png)
