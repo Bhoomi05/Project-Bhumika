@@ -91,3 +91,10 @@ student_table
 **Code Link:** [Male Students](https://github.com/Bhoomi05/Project-Bhumika/blob/main/Task2_Student_Database_Management_System/Query_for_Male_Students.sql)
 
 ![alt text](Male_Students.png)
+
+5. Query for Students with GPA less than 5.0:
+Query to fetch the details of students who have a GPA less than 5.0 from the student table
+
+**Code Link:** [GPA_less_than_5](https://github.com/Bhoomi05/Project-Bhumika/blob/main/Task2_Student_Database_Management_System/Query_for_Male_Students.sql)
+
+![!\[alt text\](GPA.png)](GPA_Less_than_5.png)
