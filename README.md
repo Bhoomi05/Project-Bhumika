@@ -104,4 +104,4 @@ Update Query statement to modify the email and grade of a student with a specifi
 
 **Code Link:** [Update Student Email and Grade](https://github.com/Bhoomi05/Project-Bhumika/blob/main/Task2_Student_Database_Management_System/Students_with_GPA_less_than_5.sql)
 
-![Update _Student_Email_and_Grade](<Update _Student_Email_and_Grade.png>)
+![alt text](Update_Student_Email_and_Grade.png)
