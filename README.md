@@ -105,3 +105,10 @@ Update Query statement to modify the email and grade of a student with a specifi
 **Code Link:** [Update Student Email and Grade](https://github.com/Bhoomi05/Project-Bhumika/blob/main/Task2_Student_Database_Management_System/Update_Student_Email_and_Grade.sql)
 
 ![alt text](Update_Student_Email_and_Grade.png)
+
+7. Query for Students_with_Grade_B:
+Query to retrieve the names and ages of all students who have a grade of B from the student table
+
+**Code Link:** [Students_with_Grade_B](https://github.com/Bhoomi05/Project-Bhumika/blob/main/Task2_Student_Database_Management_System/Update_Student_Email_and_Grade.sql)
+
+![alt text](Students_with_Grade_B.png)
