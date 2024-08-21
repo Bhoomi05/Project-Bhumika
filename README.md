@@ -67,10 +67,10 @@ The Student Database management system aims to have Student information includin
 
 1. Database Setup:
 Creating database Student_Database and table student_table, 
-**Code Link:** [Database Creation](https://github.com/Bhoomi05/Project-Bhumika/blob/main/Task2_Student_Database_Management_System/Database_Setup%26Data_Entry.sql)
+**Code Link:** [student_table](https://github.com/Bhoomi05/Project-Bhumika/blob/main/Task2_Student_Database_Management_System/Database_Setup%26Data_Entry.sql)
 
 2. Data Entry:
 Inserting 10 sample records of data in the student_table
-**Code Link:** [Data Creation](https://github.com/Bhoomi05/Project-Bhumika/blob/main/Task2_Student_Database_Management_System/Database_Setup%26Data_Entry.sql)
+**Code Link:** [student_table](https://github.com/Bhoomi05/Project-Bhumika/blob/main/Task2_Student_Database_Management_System/Database_Setup%26Data_Entry.sql)
 
 ![alt text](student_table.png)
