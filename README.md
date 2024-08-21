@@ -102,6 +102,6 @@ Query to fetch the details of students who have a GPA less than 5.0 from the stu
 6. Update Student Email and Grade:
 Update Query statement to modify the email and grade of a student with a specific ID in the student table
 
-**Code Link:** [Update Student Email and Grade](https://github.com/Bhoomi05/Project-Bhumika/blob/main/Task2_Student_Database_Management_System/Students_with_GPA_less_than_5.sql)
+**Code Link:** [Update Student Email and Grade](https://github.com/Bhoomi05/Project-Bhumika/blob/main/Task2_Student_Database_Management_System/Update_Student_Email_and_Grade.sql)
 
 ![alt text](Update_Student_Email_and_Grade.png)
