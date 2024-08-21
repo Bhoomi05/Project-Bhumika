@@ -78,4 +78,6 @@ Inserting 10 sample records of data in the student_table
 3. Student Information Retrieval:
 Query to retrieve all students information from the student_table and sorting them in descending order by their grade.
 
+**Code Link:** [Sorting_Grade_Desc](https://github.com/Bhoomi05/Project-Bhumika/blob/main/Task2_Student_Database_Management_System/Database_Setup%26Data_Entry.sql)
+
 ![alt text](Grade_Desc.png)
