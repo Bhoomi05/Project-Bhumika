@@ -88,6 +88,6 @@ Query to retrieve all students information from the student_table and sorting th
 Query to retrieve information about all male students from the
 student_table
 
-**Code Link:** [Male Students](https://github.com/Bhoomi05/Project-Bhumika/blob/main/Task2_Student_Database_Management_System/Sorting_Students_Grade_Desc.sql)
+**Code Link:** [Male Students](https://github.com/Bhoomi05/Project-Bhumika/blob/main/Task2_Student_Database_Management_System/Query_for_Male_Students.sql)
 
 ![alt text](Male_Students.png)
