@@ -116,6 +116,6 @@ Query to retrieve the names and ages of all students who have a grade of B from 
 8. Query for Grouping and Calculation:
 Query to group the student_table by the Department and Gender columns and calculate the average GPA for each combination
 
-**Code Link:** [Grouping and Calculation](https://github.com/Bhoomi05/Project-Bhumika/blob/main/Task2_Student_Database_Management_System/Students_with_Grade_B.sql)
+**Code Link:** [Grouping and Calculation](https://github.com/Bhoomi05/Project-Bhumika/blob/main/Task2_Student_Database_Management_System/Grouping_and_Calculation.sql)
 
 ![alt text](Grouping_and_Calculation.png)
