@@ -130,6 +130,6 @@ Query to rename the student_table to student_info using the appropriate SQL stat
 10. Query for Retrieving Student with Highest GPA:
 Query to retrieve the name of the student with the highest GPA from the student info table.
 
-**Code Link:** [Retrieve Student with Highest GPA](https://github.com/Bhoomi05/Project-Bhumika/blob/main/Task2_Student_Database_Management_System/Table_Renaming.sql)
+**Code Link:** [Retrieve Student with Highest GPA](https://github.com/Bhoomi05/Project-Bhumika/blob/main/Task2_Student_Database_Management_System/Student_with_Highest_GPA.sql)
 
 ![alt text](Student_with_Highest_GPA.png)
