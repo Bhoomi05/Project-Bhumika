@@ -119,3 +119,10 @@ Query to group the student_table by the Department and Gender columns and calcul
 **Code Link:** [Grouping and Calculation](https://github.com/Bhoomi05/Project-Bhumika/blob/main/Task2_Student_Database_Management_System/Grouping_and_Calculation.sql)
 
 ![alt text](Grouping_and_Calculation.png)
+
+9. Query for Table Renaming:
+Query to rename the student_table to student_info using the appropriate SQL statement
+
+**Code Link:** [Table Renaming](https://github.com/Bhoomi05/Project-Bhumika/blob/main/Task2_Student_Database_Management_System/Grouping_and_Calculation.sql)
+
+![alt text](Table_Renaming.png)
