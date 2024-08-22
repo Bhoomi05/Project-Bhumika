@@ -21,3 +21,5 @@ VALUES
 (2, 2, '2024-08-23', 200.00),  -- Jane Smith registers for Business Summit 2024
 (3, 3, '2024-08-24', 120.00),  -- Emily Johnson registers for Art Expo 2024
 (4, 4, '2024-08-25', 100.00);  -- Michael Brown registers for Health and Wellness Fair
+
+SELECT * FROM Registrations;

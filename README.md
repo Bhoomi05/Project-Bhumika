@@ -142,13 +142,15 @@ This task develops the application that allows users to create and manage events
 1. Database Creation:
 Creating database EventsManagement and tables for tables for Events, Attendees, and Registrations 
 
-**Code Link:** [Events, Attendees, and Registrations table](https://github.com/Bhoomi05/Project-Bhumika/blob/main/Task2_Student_Database_Management_System/Database_Setup%26Data_Entry.sql)
+**Code Link:** [Database_Creation](https://github.com/Bhoomi05/Project-Bhumika/blob/main/Task3_Event_Management_System/Database_Creation.sql)
 
 
 2. Data Creation:
 Inserting 10 sample records of data for Events, Attendees, and Registrations tables with respective fields.
 
-**Code Link:** [student_table](https://github.com/Bhoomi05/Project-Bhumika/blob/main/Task2_Student_Database_Management_System/Database_Setup%26Data_Entry.sql)
+**Code Link:** [Data_Creation](https://github.com/Bhoomi05/Project-Bhumika/blob/main/Task3_Event_Management_System/Data_Creation.sql)
 
 NOTE: Subtask 1 and 2 outputs are merged
 ![alt text](Event_Table.png)
+![alt text](Attendees_Table.png)
+![alt text](Registrations.png)
