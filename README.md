@@ -160,18 +160,18 @@ Querp to perform Insert update and delete operations on Event Table.
 
 a) Inserting a New Event
 
-**Code Link:** [Data_Creation](https://github.com/Bhoomi05/Project-Bhumika/blob/main/Task3_Event_Management_System/Data_Creation.sql)
+**Code Link:** [Data_Creation](https://github.com/Bhoomi05/Project-Bhumika/blob/main/Task3_Event_Management_System/Inserting_Event.sql)
 
 ![alt text](Insert_Event.png)
 
 b) Updating an Event's Information
 
-**Code Link:** [Data_Creation](https://github.com/Bhoomi05/Project-Bhumika/blob/main/Task3_Event_Management_System/Data_Creation.sql)
+**Code Link:** [Data_Creation](https://github.com/Bhoomi05/Project-Bhumika/blob/main/Task3_Event_Management_System/Updating_Event_Information.sql)
 
 ![alt text](Update_Event.png)
 
 c) Deleting an event
 
-**Code Link:** [Data_Creation](https://github.com/Bhoomi05/Project-Bhumika/blob/main/Task3_Event_Management_System/Data_Creation.sql)
+**Code Link:** [Data_Creation](https://github.com/Bhoomi05/Project-Bhumika/blob/main/Task3_Event_Management_System/Deleting_Event.sql)
 
 ![alt text](Delete_Event.png)
