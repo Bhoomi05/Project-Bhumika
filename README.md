@@ -190,3 +190,7 @@ b) Registering an attendee for an event.
 **Code Link:** [Register attendee](https://github.com/Bhoomi05/Project-Bhumika/blob/main/Task3_Event_Management_System/Registering_Attendee_for_Event.sql)
 
 ![alt text](Register_Attendee.png)
+
+5. Develop queries to retrieve event information, generate attendee lists, and calculate event attendance statistics.
+
+![alt text](Event_Info.png)
