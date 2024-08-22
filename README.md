@@ -142,13 +142,13 @@ This task develops the application that allows users to create and manage events
 1. Database Creation:
 Creating database EventsManagement and tables for tables for Events, Attendees, and Registrations 
 
-**Code Link:** [Database_Creation](https://github.com/Bhoomi05/Project-Bhumika/blob/main/Task3_Event_Management_System/Database_Creation.sql)
+**Code Link:** [Database Creation](https://github.com/Bhoomi05/Project-Bhumika/blob/main/Task3_Event_Management_System/Database_Creation.sql)
 
 
 2. Data Creation:
 Inserting 10 sample records of data for Events, Attendees, and Registrations tables with respective fields.
 
-**Code Link:** [Data_Creation](https://github.com/Bhoomi05/Project-Bhumika/blob/main/Task3_Event_Management_System/Data_Creation.sql)
+**Code Link:** [Data Creation](https://github.com/Bhoomi05/Project-Bhumika/blob/main/Task3_Event_Management_System/Data_Creation.sql)
 
 NOTE: Subtask 1 and 2 outputs are merged
 ![alt text](Event_Table.png)
@@ -160,18 +160,18 @@ Querp to perform Insert update and delete operations on Event Table.
 
 a) Inserting a New Event
 
-**Code Link:** [Data_Creation](https://github.com/Bhoomi05/Project-Bhumika/blob/main/Task3_Event_Management_System/Inserting_Event.sql)
+**Code Link:** [Insert Event](https://github.com/Bhoomi05/Project-Bhumika/blob/main/Task3_Event_Management_System/Inserting_Event.sql)
 
 ![alt text](Insert_Event.png)
 
 b) Updating an Event's Information
 
-**Code Link:** [Data_Creation](https://github.com/Bhoomi05/Project-Bhumika/blob/main/Task3_Event_Management_System/Updating_Event_Information.sql)
+**Code Link:** [Update Event](https://github.com/Bhoomi05/Project-Bhumika/blob/main/Task3_Event_Management_System/Updating_Event_Information.sql)
 
 ![alt text](Update_Event.png)
 
 c) Deleting an event
 
-**Code Link:** [Data_Creation](https://github.com/Bhoomi05/Project-Bhumika/blob/main/Task3_Event_Management_System/Deleting_Event.sql)
+**Code Link:** [Delete Event](https://github.com/Bhoomi05/Project-Bhumika/blob/main/Task3_Event_Management_System/Deleting_Event.sql)
 
 ![alt text](Delete_Event.png)
