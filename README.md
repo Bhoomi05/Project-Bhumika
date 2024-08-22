@@ -154,3 +154,24 @@ NOTE: Subtask 1 and 2 outputs are merged
 ![alt text](Event_Table.png)
 ![alt text](Attendees_Table.png)
 ![alt text](Registrations.png)
+
+3. Manage Event Details:
+Querp to perform Insert update and delete operations on Event Table.
+
+a) Inserting a New Event
+
+**Code Link:** [Data_Creation](https://github.com/Bhoomi05/Project-Bhumika/blob/main/Task3_Event_Management_System/Data_Creation.sql)
+
+![alt text](Insert_Event.png)
+
+b) Updating an Event's Information
+
+**Code Link:** [Data_Creation](https://github.com/Bhoomi05/Project-Bhumika/blob/main/Task3_Event_Management_System/Data_Creation.sql)
+
+![alt text](Update_Event.png)
+
+c) Deleting an event
+
+**Code Link:** [Data_Creation](https://github.com/Bhoomi05/Project-Bhumika/blob/main/Task3_Event_Management_System/Data_Creation.sql)
+
+![alt text](Delete_Event.png)
