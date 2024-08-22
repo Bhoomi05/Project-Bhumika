@@ -181,12 +181,12 @@ Query to insert and register new attendee.
 
 a) Inserting a new attendee
 
-**Code Link:** [Insert New Attendee](https://github.com/Bhoomi05/Project-Bhumika/blob/main/Task3_Event_Management_System/Inserting_Event.sql)
+**Code Link:** [Insert New Attendee](https://github.com/Bhoomi05/Project-Bhumika/blob/main/Task3_Event_Management_System/Insert_Attendee.sql)
 
 ![alt text](Insert_Attendee.png)
 
 b) Registering an attendee for an event.
 
-**Code Link:** [Register attendee](https://github.com/Bhoomi05/Project-Bhumika/blob/main/Task3_Event_Management_System/Updating_Event_Information.sql)
+**Code Link:** [Register attendee](https://github.com/Bhoomi05/Project-Bhumika/blob/main/Task3_Event_Management_System/Registering_Attendee_for_Event.sql)
 
 ![alt text](Register_Attendee.png)
