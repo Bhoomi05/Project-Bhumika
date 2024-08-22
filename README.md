@@ -73,7 +73,7 @@ Creating database Student_Database and table student_table,
 Inserting 10 sample records of data in the student_table
 **Code Link:** [student_table](https://github.com/Bhoomi05/Project-Bhumika/blob/main/Task2_Student_Database_Management_System/Database_Setup%26Data_Entry.sql)
 
-NOTE: Subtask 1 and 2 are merged
+NOTE: Subtask 1 and 2 outputs are merged
 
 ![alt text](student_table.png)
 
@@ -133,3 +133,22 @@ Query to retrieve the name of the student with the highest GPA from the student 
 **Code Link:** [Retrieve Student with Highest GPA](https://github.com/Bhoomi05/Project-Bhumika/blob/main/Task2_Student_Database_Management_System/Student_with_Highest_GPA.sql)
 
 ![alt text](Student_with_Highest_GPA.png)
+
+---
+### **Task 3 : Event Management System** 
+
+This task develops the application that allows users to create and manage events, track attendees, and handle event registrations efficiently.
+
+1. Database Creation:
+Creating database EventsManagement and tables for tables for Events, Attendees, and Registrations 
+
+**Code Link:** [Events, Attendees, and Registrations table](https://github.com/Bhoomi05/Project-Bhumika/blob/main/Task2_Student_Database_Management_System/Database_Setup%26Data_Entry.sql)
+
+
+2. Data Creation:
+Inserting 10 sample records of data for Events, Attendees, and Registrations tables with respective fields.
+
+**Code Link:** [student_table](https://github.com/Bhoomi05/Project-Bhumika/blob/main/Task2_Student_Database_Management_System/Database_Setup%26Data_Entry.sql)
+
+NOTE: Subtask 1 and 2 outputs are merged
+![alt text](Event_Table.png)
