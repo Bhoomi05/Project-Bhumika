@@ -156,7 +156,7 @@ NOTE: Subtask 1 and 2 outputs are merged
 ![alt text](Registrations.png)
 
 3. Manage Event Details:
-Querp to perform Insert update and delete operations on Event Table.
+Query to perform Insert Update and Delete operations on Event Table.
 
 a) Inserting a New Event
 
@@ -175,3 +175,18 @@ c) Deleting an event
 **Code Link:** [Delete Event](https://github.com/Bhoomi05/Project-Bhumika/blob/main/Task3_Event_Management_System/Deleting_Event.sql)
 
 ![alt text](Delete_Event.png)
+
+3. Manage Track Attendees Handle Events:
+Query to insert and register new attendee.
+
+a) Inserting a new attendee
+
+**Code Link:** [Insert New Attendee](https://github.com/Bhoomi05/Project-Bhumika/blob/main/Task3_Event_Management_System/Inserting_Event.sql)
+
+![alt text](Insert_Attendee.png)
+
+b) Registering an attendee for an event.
+
+**Code Link:** [Register attendee](https://github.com/Bhoomi05/Project-Bhumika/blob/main/Task3_Event_Management_System/Updating_Event_Information.sql)
+
+![alt text](Register_Attendee.png)
