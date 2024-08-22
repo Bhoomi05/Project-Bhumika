@@ -176,7 +176,7 @@ c) Deleting an event
 
 ![alt text](Delete_Event.png)
 
-3. Manage Track Attendees Handle Events:
+4. Manage Track Attendees Handle Events:
 Query to insert and register new attendee.
 
 a) Inserting a new attendee
