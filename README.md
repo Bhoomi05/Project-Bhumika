@@ -221,12 +221,12 @@ Objective: Perform OLAP operations (Drill Down, Rollup, Cube, Slice, and Dice) o
 Creating a database to store the sales data and a table named sales_sample with the columns: Product_ld, Region,
 Date, Sales_Amount
 
-**Code Link:** [Database Creation](https://github.com/Bhoomi05/Project-Bhumika/blob/main/Task3_Event_Management_System/Database_Creation.sql)
+**Code Link:** [Database Creation](https://github.com/Bhoomi05/Project-Bhumika/blob/main/Task4_OLAP_Operations/Database_Creation.sql)
 
 2. Data Creation:
 Inserting 10 sample records into the sales_sample table, representing sales data.
 
-**Code Link:** [Data Creation](https://github.com/Bhoomi05/Project-Bhumika/blob/main/Task3_Event_Management_System/Data_Creation.sql)
+**Code Link:** [Data Creation](https://github.com/Bhoomi05/Project-Bhumika/blob/main/Task4_OLAP_Operations/Data_Creation.sql)
 
 NOTE: Subtask 1 and 2 outputs are merged
 
@@ -236,32 +236,32 @@ NOTE: Subtask 1 and 2 outputs are merged
 
 a) Drill Down- Query to perform drill down from region to product level to understand sales performance
 
-**Code Link:** [Drill Down](https://github.com/Bhoomi05/Project-Bhumika/blob/main/Task3_Event_Management_System/Inserting_Event.sql)
+**Code Link:** [Drill Down](https://github.com/Bhoomi05/Project-Bhumika/blob/main/Task4_OLAP_Operations/Drill_Down.sql)
 
 ![alt text](Drill_Down.png)
 
 b) Rollup- A query to perform roll up from product to region level to view total sales by region.
 
-**Code Link:** [Rollup](https://github.com/Bhoomi05/Project-Bhumika/blob/main/Task3_Event_Management_System/Updating_Event_Information.sql)
+**Code Link:** [Rollup](https://github.com/Bhoomi05/Project-Bhumika/blob/main/Task4_OLAP_Operations/Roll_Up.sql)
 
 ![alt text](Roll_Up.png)
 
 c) Cube - A query to explore sales data from different perspectives, such as product, region, and date. As MYSQL does not support CUBE keyword, we have used UNION ALL.
 
-**Code Link:** [Cube](https://github.com/Bhoomi05/Project-Bhumika/blob/main/Task3_Event_Management_System/Deleting_Event.sql)
+**Code Link:** [Cube](https://github.com/Bhoomi05/Project-Bhumika/blob/main/Task4_OLAP_Operations/Cube_Using_Union_All.sql)
 
 ![alt text](CUBE.png)
 
 d)Slice- A query to slice the data to view sales for a particular region or date range.
 
-**Code Link:** [Slice](https://github.com/Bhoomi05/Project-Bhumika/blob/main/Task3_Event_Management_System/Deleting_Event.sql)
+**Code Link:** [Slice](https://github.com/Bhoomi05/Project-Bhumika/blob/main/Task4_OLAP_Operations/Slice.sql)
 
 ![alt text](Slice.png)
 
 e) Dice - A query to view sales for specific
 combinations of product, region, and date
 
-**Code Link:** [Dice](https://github.com/Bhoomi05/Project-Bhumika/blob/main/Task3_Event_Management_System/Deleting_Event.sql)
+**Code Link:** [Dice](https://github.com/Bhoomi05/Project-Bhumika/blob/main/Task4_OLAP_Operations/Dice.sql)
 
 
 ![alt text](Dice.png)
